@@ -1,0 +1,150 @@
+Vanity Address
+
+Your Public key    1athrEYDnB7yfMbMY2bbv5f1AW2wqNUK6
+Your Private key    5JVtJVzGj9XdoX8LexhoAjKEW5624aHbpVD4jaxEgdCfwWpw78D
+
+
+
+
+Your address is mi86RUq3nWZWfeTWvkjbQdpgsWSXvLGTv2
+
+
+PAYTOPUBKEY
+
+16:51:06.924 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - Transaction hex you can directly submit this to a block explorer:
+0100000001e034bf7f1fdbba9b3c9b57f3a8d7452183ed38145a84d62ae0aab43a6f64adcd000000006b48304502210090126344727c3e67e28cdf56715b9cfdb3e495786497d6c94521df4cfd37b34d02202e2eb0545c212d6508f14e7c338f55ec7aba020e30437ec6bcb78c7e21a86f44012102716dd20664914283bb4c8484eeaf3a7d945052f1dc46acdeb576c8174b4e9714ffffffff0240420f0000000000232103dbba05414de9992a9c29b9631062f1b23dea7b505fd07289ef6d3b92034b49d5ac585eb007000000001976a9146a4666915076d7a9e30a9c3e9ee6003f8936b59288ac00000000
+16:51:06.979 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - Broadcasted transaction: f1c335507407608817059d97cbb730031a948f3af5b2fc451426885004c3746a
+16:51:06.980 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - Transaction hex you can directly submit this to a block explorer:
+01000000016a74c3045088261445fcb2f53a8f941a0330b7cb979d0517886007745035c3f1000000004847304402200b223a18084d72bb715714df1eff01af18f86b212f49aff50424249d3eeb125202203fe2e876e1cb6cfd0877950d8aad18095cb1d435506d5566eb662da7807d2d0201ffffffff0100350c00000000001976a9141c95985dbbb0e2fc1611fcb38450c86c984aa29b88ac00000000
+16:51:07.030 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - Broadcasted transaction: 9ddd5cd84629e2897265fc66309f2e1211fbb964126432f95c76b2c23fc22bf6
+
+
+16:59:49.426 [main] INFO  in.ac.iitk.cse.cs252.ScriptTests - Synced blockchain.
+16:59:49.428 [main] INFO  in.ac.iitk.cse.cs252.ScriptTests - You've got 129799000 in your pocket
+16:59:49.430 [main] INFO  in.ac.iitk.cse.cs252.ScriptTests - Your address is n2Qz39Dep1Lqby5RRsLePjhKphi9KVuXNC
+
+
+PAYTOPUBKEYHASH
+
+17:01:27.982 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - Transaction hex you can directly submit this to a block explorer:
+0100000002f62bc23fc2b2765cf932641264b9fb11122e9f3066fc657289e22946d85cdd9d000000006b483045022100a8f63ac4e5fe51e1c6daeb630fa224330ae998e621123ebd6b18e65c49dadb20022016fa80df5dbd26ce950c4a3b5d804cda1daa0e733e0bac8abf418969a4dcc4080121025454cf792fe5dfd3da39673f26bbad03431d8d3f843b24154f63fc4e94455887ffffffff6a74c3045088261445fcb2f53a8f941a0330b7cb979d0517886007745035c3f1010000006a47304402204eec2631f8a0493b279c32e95e61be61bac56772d9cb486cb741e5fccfecb1080220623e87ab91d6aeb58d5260073722913d295360c803fe61f921c2a4348f7e8da4012103e6a9f907e9f53ac18125f11bc222f2973272d1bfe5ffa3282ee17e3fc1802f23ffffffff0240420f00000000001976a914ec812ded65b5f1a4c8ab88b45f15c3d2998697bb88ac304dad07000000001976a9141dac29f1a70e93a3305b285bfef6c54824aa7ee488ac00000000
+17:01:28.029 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - Broadcasted transaction: 3cc8e3ee23ef9291addee4a184d1626b93f19e149e47c2524cb0705241f1b464
+17:01:28.030 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - Transaction hex you can directly submit this to a block explorer:
+010000000164b4f1415270b04c52c2479e149ef1936b62d184a1e4dead9192ef23eee3c83c000000006a473044022062ecfbc1c4e78d426052d3fa3823ec22bdf08f8b56c9f19091455953053fb31f0220738bbd296f523019b2ba70ff0050fc76f4878c3a145834a51848c53006a7f7f1012103f882e556886e2b769d0e16e291836bd0ed172525dffed3d026fe3eb972a81f6fffffffff0100350c00000000001976a914e53999c06c2fbf493804a26058523d298a8ee09488ac00000000
+17:01:28.098 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - Broadcasted transaction: a6f935fd71df3952b3d80311984d6b31e6aef05ea2240e1459f99f19470d5398
+17:01:29.033 [main] INFO  in.ac.iitk.cse.cs252.ScriptTests - Running on testnet.
+17:01:29.035 [main] INFO  in.ac.iitk.cse.cs252.ScriptTests - Starting to sync blockchain. This might take a few minutes
+17:01:29.110 [PeerGroup Thread] WARN  org.bitcoinj.core.PeerGroup - Failed to connect to [2a00:16d8:c:0:0:0:5b6a:c261]:18333: Network is unreachable
+17:01:29.110 [PeerGroup Thread] WARN  org.bitcoinj.core.PeerGroup - Failed to connect to [2a00:16d8:c:0:0:0:5b6a:c261]:18333: Network is unreachable
+17:01:29.685 [main] INFO  in.ac.iitk.cse.cs252.ScriptTests - Synced blockchain.
+17:01:29.686 [main] INFO  in.ac.iitk.cse.cs252.ScriptTests - You've got 129598000 in your pocket
+17:01:29.687 [main] INFO  in.ac.iitk.cse.cs252.ScriptTests - Your address is n263T8JwFyL2CLQAQ9iZQ1bDSdxBB1daMg
+
+
+LINEAREQUATIONTRANSACTION
+
+
+17:30:44.363 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - Synced blockchain.
+17:30:44.364 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - You've got 1.29598 BTC in your pocket
+17:30:44.496 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - Transaction hex you can directly submit this to a block explorer:
+010000000164b4f1415270b04c52c2479e149ef1936b62d184a1e4dead9192ef23eee3c83c010000006a47304402201a4bbb4c1fe61c1e3426eae889a42752b1131920ca6c93f74ce1199d13af06b50220516ddf11c8e7f3e2d9aa4008f8366e4fb68236f55d59cf4512838717677350ad0121023705ba007f5e4d4bc86579f3c16e8ab9c7074a21e3466b83aace340c5b625151ffffffff0208079e07000000001976a914295c25c42945117207f58d76c42c171716e61d7788ac40420f00000000000b6e93029600889402e8008700000000
+17:30:44.535 [PeerGroup Thread] WARN  org.bitcoinj.core.PeerGroup - Failed to connect to [2a01:4f8:140:9186:0:0:0:2]:18333: Network is unreachable
+17:30:44.535 [PeerGroup Thread] WARN  org.bitcoinj.core.PeerGroup - Failed to connect to [2a01:4f8:140:9186:0:0:0:2]:18333: Network is unreachable
+17:30:44.538 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - Broadcasted transaction: 650b7faa8f6ef4db5cae1dc3a71bd1192d44b38c3936b20c0a77db73489f5039
+17:30:44.538 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - Transaction hex you can directly submit this to a block explorer:
+010000000139509f4873db770a0cb236398cb3442d19d11ba7c31dae5cdbf46e8faa7f0b65010000000502bf0001a9ffffffff0100350c00000000001976a914e1a48bfa0650bd83d8be0b355a1b8a55c9186a3a88ac00000000
+17:30:44.571 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - Broadcasted transaction: dcc2002fd9d99f12ae851040f2d28255d924a2b8d1f636bff49f85e1b073277f
+17:30:46.112 [main] INFO  in.ac.iitk.cse.cs252.ScriptTests - Running on testnet.
+17:30:46.112 [main] INFO  in.ac.iitk.cse.cs252.ScriptTests - Starting to sync blockchain. This might take a few minutes
+
+
+
+17:35:24.440 [main] INFO  in.ac.iitk.cse.cs252.ScriptTests - Synced blockchain.
+17:35:24.441 [main] INFO  in.ac.iitk.cse.cs252.ScriptTests - You've got 129397000 in your pocket
+17:35:24.445 [main] INFO  in.ac.iitk.cse.cs252.ScriptTests - Your address is mqDZswroSr4PapaLEjeWjp2jFfEvC5pNR9
+
+
+
+MULTISIGTRANSACTION
+
+17:44:29.241 [main] INFO  in.ac.iitk.cse.cs252.ScriptTests - Synced blockchain.
+17:44:29.244 [main] INFO  in.ac.iitk.cse.cs252.ScriptTests - You've got 129397000 in your pocket
+17:44:29.253 [main] INFO  in.ac.iitk.cse.cs252.ScriptTests - Your address is mqDZswroSr4PapaLEjeWjp2jFfEvC5pNR9
+17:44:29.745 [main] INFO  in.ac.iitk.cse.cs252.ScriptTests - Running on testnet.
+17:44:29.747 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - Starting to sync blockchain. This might take a few minutes
+
+
+17:44:32.905 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - Synced blockchain.
+17:44:32.908 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - You've got 1.29397 BTC in your pocket
+
+17:44:33.359 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - Transaction hex you can directly submit this to a block explorer:
+010000000139509f4873db770a0cb236398cb3442d19d11ba7c31dae5cdbf46e8faa7f0b65000000006b483045022100a825f96429a9359176e0e8ab8259e44d0a01f362f41a56cd98a7dc1994b323fd02206026b0e1cdca03afb4a03ada7202230ffa4bd346595d70e19e848f738c8164260121020a5c90a0a0907bda2a8682490310c6e593e6385e539a5d726abff8d6f395646bffffffff0240420f00000000008c5121027ddfec12b8b44958deeef495a9c3fd79964de706d0e8a573f8c32e5528be31422103335bbbc1ceda5eb9ec686f1cb22a43bc345704a6baeba4a0d064c745f28b15142103ddb56e7859ddcde713c26e86d00b25694f3adb77e982d5d82fc2d24c77fd9f0753af2103a2659c8285897e499700baacbc5a51a278144f0f1477bc6ee24ab77fb3e0b71cace0c08e07000000001976a91435ce8ca8bca708d725d28b636e9ecc0c427c096e88ac00000000
+17:44:33.408 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - Broadcasted transaction: 369efec2c1b03e5fa5e2912856636f3abc37cdaf274a556e1bc82a6ea0c2126d
+17:44:33.408 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - Transaction hex you can directly submit this to a block explorer:
+01000000016d12c2a06e2ac81b6e554a27afcd37bc3a6f63562891e2a55f3eb0c1c2fe9e360000000093483045022100bcbcfc816442491c8142eb38d0b4f209a9db255e238766c6d5a019d20a6b3b850220541c74294946982d6e9a77ccaef7c453d7d489bab35c8a0ba10dc342893d3ec401514830450221009fb9309c51137cd3084feac925720ef631d2af7b0d89d3e99ae926782ae86d7d0220506e15a15f70b3cb188762ee269878797d696b08ee89d236f97dd08bc7ee2da701ffffffff0100350c00000000001976a9146a67798fc2a9552b63efc0422b9fecc9d665832e88ac00000000
+17:44:33.440 [main] INFO  in.ac.iitk.cse.cs252.transactions.ScriptTransaction - Broadcasted transaction: f101f57044edb4c4d9c007df540c24a966a48c5c44bdf37c595c3b4295014ba9
+
+
+
+18:05:56.031 [main] INFO  in.ac.iitk.cse.cs252.ScriptTests - Synced blockchain.
+18:05:56.034 [main] INFO  in.ac.iitk.cse.cs252.ScriptTests - You've got 129196000 in your pocket
+18:05:56.037 [main] INFO  in.ac.iitk.cse.cs252.ScriptTests - Your address is mtVFt7zSCDyTBaknhkqCo4C7iZNPZoxd6F
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+PAYTOPUBKEY
+
+0100000001e034bf7f1fdbba9b3c9b57f3a8d7452183ed38145a84d62ae0aab43a6f64adcd000000006b48304502210090126344727c3e67e28cdf56715b9cfdb3e495786497d6c94521df4cfd37b34d02202e2eb0545c212d6508f14e7c338f55ec7aba020e30437ec6bcb78c7e21a86f44012102716dd20664914283bb4c8484eeaf3a7d945052f1dc46acdeb576c8174b4e9714ffffffff0240420f0000000000232103dbba05414de9992a9c29b9631062f1b23dea7b505fd07289ef6d3b92034b49d5ac585eb007000000001976a9146a4666915076d7a9e30a9c3e9ee6003f8936b59288ac00000000
+
+f1c335507407608817059d97cbb730031a948f3af5b2fc451426885004c3746a
+
+01000000016a74c3045088261445fcb2f53a8f941a0330b7cb979d0517886007745035c3f1000000004847304402200b223a18084d72bb715714df1eff01af18f86b212f49aff50424249d3eeb125202203fe2e876e1cb6cfd0877950d8aad18095cb1d435506d5566eb662da7807d2d0201ffffffff0100350c00000000001976a9141c95985dbbb0e2fc1611fcb38450c86c984aa29b88ac00000000
+
+9ddd5cd84629e2897265fc66309f2e1211fbb964126432f95c76b2c23fc22bf6
+
+
+PAYTOPUBKEYHASH
+
+0100000002f62bc23fc2b2765cf932641264b9fb11122e9f3066fc657289e22946d85cdd9d000000006b483045022100a8f63ac4e5fe51e1c6daeb630fa224330ae998e621123ebd6b18e65c49dadb20022016fa80df5dbd26ce950c4a3b5d804cda1daa0e733e0bac8abf418969a4dcc4080121025454cf792fe5dfd3da39673f26bbad03431d8d3f843b24154f63fc4e94455887ffffffff6a74c3045088261445fcb2f53a8f941a0330b7cb979d0517886007745035c3f1010000006a47304402204eec2631f8a0493b279c32e95e61be61bac56772d9cb486cb741e5fccfecb1080220623e87ab91d6aeb58d5260073722913d295360c803fe61f921c2a4348f7e8da4012103e6a9f907e9f53ac18125f11bc222f2973272d1bfe5ffa3282ee17e3fc1802f23ffffffff0240420f00000000001976a914ec812ded65b5f1a4c8ab88b45f15c3d2998697bb88ac304dad07000000001976a9141dac29f1a70e93a3305b285bfef6c54824aa7ee488ac00000000
+
+3cc8e3ee23ef9291addee4a184d1626b93f19e149e47c2524cb0705241f1b464
+
+010000000164b4f1415270b04c52c2479e149ef1936b62d184a1e4dead9192ef23eee3c83c000000006a473044022062ecfbc1c4e78d426052d3fa3823ec22bdf08f8b56c9f19091455953053fb31f0220738bbd296f523019b2ba70ff0050fc76f4878c3a145834a51848c53006a7f7f1012103f882e556886e2b769d0e16e291836bd0ed172525dffed3d026fe3eb972a81f6fffffffff0100350c00000000001976a914e53999c06c2fbf493804a26058523d298a8ee09488ac00000000
+
+a6f935fd71df3952b3d80311984d6b31e6aef05ea2240e1459f99f19470d5398
+
+LINEAREQUATIONTRANSACTION
+
+010000000164b4f1415270b04c52c2479e149ef1936b62d184a1e4dead9192ef23eee3c83c010000006a47304402201a4bbb4c1fe61c1e3426eae889a42752b1131920ca6c93f74ce1199d13af06b50220516ddf11c8e7f3e2d9aa4008f8366e4fb68236f55d59cf4512838717677350ad0121023705ba007f5e4d4bc86579f3c16e8ab9c7074a21e3466b83aace340c5b625151ffffffff0208079e07000000001976a914295c25c42945117207f58d76c42c171716e61d7788ac40420f00000000000b6e93029600889402e8008700000000
+
+650b7faa8f6ef4db5cae1dc3a71bd1192d44b38c3936b20c0a77db73489f5039
+
+010000000139509f4873db770a0cb236398cb3442d19d11ba7c31dae5cdbf46e8faa7f0b65010000000502bf0001a9ffffffff0100350c00000000001976a914e1a48bfa0650bd83d8be0b355a1b8a55c9186a3a88ac00000000
+
+dcc2002fd9d99f12ae851040f2d28255d924a2b8d1f636bff49f85e1b073277f
+
+MULTISIGTRANSACTION
+
+010000000139509f4873db770a0cb236398cb3442d19d11ba7c31dae5cdbf46e8faa7f0b65000000006b483045022100a825f96429a9359176e0e8ab8259e44d0a01f362f41a56cd98a7dc1994b323fd02206026b0e1cdca03afb4a03ada7202230ffa4bd346595d70e19e848f738c8164260121020a5c90a0a0907bda2a8682490310c6e593e6385e539a5d726abff8d6f395646bffffffff0240420f00000000008c5121027ddfec12b8b44958deeef495a9c3fd79964de706d0e8a573f8c32e5528be31422103335bbbc1ceda5eb9ec686f1cb22a43bc345704a6baeba4a0d064c745f28b15142103ddb56e7859ddcde713c26e86d00b25694f3adb77e982d5d82fc2d24c77fd9f0753af2103a2659c8285897e499700baacbc5a51a278144f0f1477bc6ee24ab77fb3e0b71cace0c08e07000000001976a91435ce8ca8bca708d725d28b636e9ecc0c427c096e88ac00000000
+
+369efec2c1b03e5fa5e2912856636f3abc37cdaf274a556e1bc82a6ea0c2126d
+
+01000000016d12c2a06e2ac81b6e554a27afcd37bc3a6f63562891e2a55f3eb0c1c2fe9e360000000093483045022100bcbcfc816442491c8142eb38d0b4f209a9db255e238766c6d5a019d20a6b3b850220541c74294946982d6e9a77ccaef7c453d7d489bab35c8a0ba10dc342893d3ec401514830450221009fb9309c51137cd3084feac925720ef631d2af7b0d89d3e99ae926782ae86d7d0220506e15a15f70b3cb188762ee269878797d696b08ee89d236f97dd08bc7ee2da701ffffffff0100350c00000000001976a9146a67798fc2a9552b63efc0422b9fecc9d665832e88ac00000000
+
+f101f57044edb4c4d9c007df540c24a966a48c5c44bdf37c595c3b4295014ba9
+
+
+
+
+
+
+
+
+
+
+
+
+
